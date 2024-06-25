@@ -4556,3 +4556,7 @@ form.searchform > button:focus {color: var(--color3);}
   opacity: 1;
 }
 .payment-info + button {margin-top: 1.875rem;}
+
+.PrimeFocus{
+  width: 86px;
+}
